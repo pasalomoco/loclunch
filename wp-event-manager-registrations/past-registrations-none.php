@@ -1,0 +1,1 @@
+<div class="wpem-alert wpem-alert-danger"><?php _e( 'No registrations found', 'wp-event-manager-registrations' ); ?></div>

@@ -1,0 +1,16 @@
+.required:after { content:"*" !important; color: red !important; font-size: x-large}
+
+/* Quitar fields post event */
+.fieldset-event_pincode,.fieldset-registration{
+	display:none;
+}
+
+.fieldset-attendee_information_type,.fieldset-attendee_information_fields,.fieldset-event_type,.fieldset-event_category{
+	visibility:hidden;
+	position: absolute;
+	top: 0;
+	display: block;
+	width: 0px;
+	height: 0px;
+}
+ 

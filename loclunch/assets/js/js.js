@@ -1,0 +1,1 @@
+alert('You must to login to use Google Maps correctly');
